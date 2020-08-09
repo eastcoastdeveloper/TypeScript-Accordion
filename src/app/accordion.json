@@ -120,6 +120,10 @@
                     "code": "https://stackblitz.com/edit/angular-json-accordion",
                     "viewProject": "https://angular-json-accordion.stackblitz.io/"
                 },{
+                    "title": "Profile Panel Toggle",
+                    "code": "https://stackblitz.com/edit/angular-profile-panel-toggle",
+                    "viewProject": "https://angular-profile-panel-toggle.stackblitz.io/"
+                },{
                     "title": "Module Routing",
                     "code": "https://stackblitz.com/edit/angular-routing-between-modules",
                     "viewProject": "https://angular-routing-between-modules.stackblitz.io/"
