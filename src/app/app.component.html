@@ -9,7 +9,7 @@
                         <div class="title" style="grid-area: title;">{{ listElems.title }}</div>
                     </li>
                 </ul>
-                <ul *ngIf="i > 0">
+                <ul *ngIf="i === 1 || i === 2">
                     <li *ngFor="let listElems of item.content; let j = index">
                         <div class="title" style="grid-area: title;">{{ listElems.title }}</div>
                         <div>
@@ -17,6 +17,14 @@
                         </div>
                         <div>
                             <a href="{{ listElems.viewProject }}" target="_blank" style="grid-area: project">view project</a> 
+                        </div>
+                    </li>
+                </ul>
+                <ul *ngIf="i === 3">
+                    <li *ngFor="let posts of item.content; let j = index">
+                        <div class="title" style="grid-area: title;">{{ posts.title }}</div>
+                        <div>
+                            <a href="{{ posts.link }}" target="_blank" style="grid-area: code">Read the post</a>
                         </div>
                     </li>
                 </ul>

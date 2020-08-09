@@ -116,6 +116,10 @@
                     "code": "https://stackblitz.com/edit/angular-dynamic-sidebar",
                     "viewProject": "https://angular-dynamic-sidebar.stackblitz.io/"
                 },{
+                    "title": "TypeScript Accordion",
+                    "code": "https://stackblitz.com/edit/angular-json-accordion",
+                    "viewProject": "https://angular-json-accordion.stackblitz.io/"
+                },{
                     "title": "Module Routing",
                     "code": "https://stackblitz.com/edit/angular-routing-between-modules",
                     "viewProject": "https://angular-routing-between-modules.stackblitz.io/"
@@ -127,10 +131,6 @@
                     "title": "Table Pagination",
                     "code": "https://stackblitz.com/edit/angular-8-table-pagination",
                     "viewProject": "https://angular-8-table-pagination.stackblitz.io/"
-                },{
-                    "title": "Nested Routing",
-                    "code": "https://stackblitz.com/edit/angular-8-nested-routing",
-                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/LmxqKa"
                 },{
                     "title": "Nested Routing",
                     "code": "https://stackblitz.com/edit/angular-8-nested-routing",
@@ -151,6 +151,23 @@
                     "title": "Line Chart",
                     "code": "https://stackblitz.com/edit/line-chart-component-json",
                     "viewProject": "https://line-chart-component-json.stackblitz.io/"
+                }
+            ]
+        }, {
+            "name": "Posts",
+            "content": [
+                {
+                    "title": "Future Crimes Book Review",
+                    "link": "https://dev.to/fredrickjaxx/cybersecurity-and-data-collection-book-review-38el"
+                },{
+                    "title": "IoT Language & Security",
+                    "link": "https://dev.to/fredrickjaxx/internet-of-things-language-and-security-6b6"
+                },{
+                    "title": "Interaction Design & Usability",
+                    "link": "https://dev.to/fredrickjaxx/ux-transparency-interaction-design-and-usability-p38"
+                },{
+                    "title": "UX Design All Star Tips",
+                    "link": "https://codepen.io/EastCoastDeveloper/post/ux-design-description-gotchas-all-star-tips"
                 }
             ]
         }
