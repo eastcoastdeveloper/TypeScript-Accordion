@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "name": "Skills",
+            "content": [
+                {
+                    "title": "HTML5"
+                },{
+                    "title": "CSS"
+                },{
+                    "title": "JavaScript"
+                },{
+                    "title": "AngularJS"
+                },{
+                    "title": "Angular 7-10"
+                },{
+                    "title": "JSON"
+                },{
+                    "title": "Wordpress"
+                },{
+                    "title": "Photoshop"
+                },{
+                    "title": "Illustrator"
+                },{
+                    "title": "After Effects"
+                }
+            ]
+        },
+        {
+            "name": "Codepen",
+            "content": [
+                {
+                    "title": "AngularJS Single Page App",
+                    "code": "https://codepen.io/EastCoastDeveloper/project/editor/ZgbdLb",
+                    "viewProject": "https://000097220.codepen.website"
+                },{
+                    "title": "Web Banner w/ Date Code",
+                    "code": "https://codepen.io/EastCoastDeveloper/project/editor/XYyQaL",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/project/live/XYyQaL/"
+                },{
+                    "title": "NASA Photo of the Day",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/5c88e99d0e9a03834dc2d113c24f9daa",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/5c88e99d0e9a03834dc2d113c24f9daa"
+                },{
+                    "title": "JavaScript Module Banner",
+                    "code": "https://codepen.io/EastCoastDeveloper/project/editor/XkoGqn",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/project/live/XkoGqn/"
+                },{
+                    "title": "HTML5 Responsive Video Player",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/LmxqKa",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/LmxqKa"
+                },{
+                    "title": "In Page Navigation",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/JjogojN",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/JjogojN"
+                },{
+                    "title": "Progress Nav Bar",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/xXOapm",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/xXOapm"
+                },{
+                    "title": "JavaScript Tabs",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/yzejjQ",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/yzejjQ"
+                },{
+                    "title": "Responsive Slider",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/WyxvbP",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/WyxvbP"
+                },{
+                    "title": "Basic Slider",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/deEoBw",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/deEoBw"
+                },{
+                    "title": "CSS 3D Animation",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/jGYXYy",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/jGYXYy"
+                },{
+                    "title": "JS Slider Swatches",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/mBJEaW",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/mBJEaW"
+                },{
+                    "title": "CSS Animated Banner",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/VweyOaX",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/VweyOaX"
+                },{
+                    "title": "Banner w/ Date Code",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/RLLmZL",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/RLLmZL"
+                },{
+                    "title": "jQuery User Selection",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/ZXYLyV",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/ZXYLyV"
+                },{
+                    "title": "Open Weather Demo",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/aVJQVJ",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/aVJQVJ"
+                },{
+                    "title": "CSS Dropdown Nav",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/VMwxmQ",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/VMwxmQ"
+                },{
+                    "title": "JavaScript Quiz",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/xoLQrY",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/xoLQrY"
+                },{
+                    "title": "Unknown Column Count",
+                    "code": "https://codepen.io/EastCoastDeveloper/pen/XGzjPE",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/XGzjPE"
+                }
+            ]
+        },
+        {
+            "name": "Stackblitz",
+            "content": [
+                {
+                    "title": "Dynamic Sidebar",
+                    "code": "https://stackblitz.com/edit/angular-dynamic-sidebar",
+                    "viewProject": "https://angular-dynamic-sidebar.stackblitz.io/"
+                },{
+                    "title": "Module Routing",
+                    "code": "https://stackblitz.com/edit/angular-routing-between-modules",
+                    "viewProject": "https://angular-routing-between-modules.stackblitz.io/"
+                },{
+                    "title": "Area Chart",
+                    "code": "https://stackblitz.com/edit/angular-8-area-chart",
+                    "viewProject": "https://angular-8-area-chart.stackblitz.io/"
+                },{
+                    "title": "Table Pagination",
+                    "code": "https://stackblitz.com/edit/angular-8-table-pagination",
+                    "viewProject": "https://angular-8-table-pagination.stackblitz.io/"
+                },{
+                    "title": "Nested Routing",
+                    "code": "https://stackblitz.com/edit/angular-8-nested-routing",
+                    "viewProject": "https://codepen.io/EastCoastDeveloper/live/LmxqKa"
+                },{
+                    "title": "Nested Routing",
+                    "code": "https://stackblitz.com/edit/angular-8-nested-routing",
+                    "viewProject": "https://angular-8-nested-routing.stackblitz.io/"
+                },{
+                    "title": "Media Querie",
+                    "code": "https://stackblitz.com/edit/angular-8-media-querie",
+                    "viewProject": "https://angular-8-media-querie.stackblitz.io/"
+                },{
+                    "title": "Window Width",
+                    "code": "https://stackblitz.com/edit/angular-8-window-width",
+                    "viewProject": "https://angular-8-window-width.stackblitz.io/"
+                },{
+                    "title": "Doughnut Chart",
+                    "code": "https://stackblitz.com/edit/doughnut-chart-component",
+                    "viewProject": "https://doughnut-chart-component.stackblitz.io/"
+                },{
+                    "title": "Line Chart",
+                    "code": "https://stackblitz.com/edit/line-chart-component-json",
+                    "viewProject": "https://line-chart-component-json.stackblitz.io/"
+                }
+            ]
+        }
+    ]
+}
